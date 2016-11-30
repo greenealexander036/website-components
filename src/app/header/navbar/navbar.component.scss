@@ -1,0 +1,48 @@
+.nav-links {
+    list-style: none;
+    display: inline-flex;
+    font-size: 150%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-link {
+    margin-right: 2rem;
+    color: #ccc;
+    transition: border-bottom 0.1s, color 0.2s;
+    text-decoration: none;
+    padding-bottom: 3px;
+    font-weight: 300;
+}
+
+.nav-link:hover {
+    border-bottom: 3px solid orangered;
+    color: #fff;
+}
+
+.branding {
+    display: inline-flex;
+    align-items: center;
+    margin-left: 1rem;
+}
+
+.filler {
+    flex: 1 1 auto;
+}
+
+nav {
+    background-color: transparent;
+    color: white;
+    height: 100px;
+    align-items: center;
+    display: flex;
+}
+
+#nav-logo {
+    font-size: 700%;
+    margin-right: .5rem;
+}
+
+.title {
+    font-size: 300%;
+    font-family: 'Alex Brush', cursive;
+}

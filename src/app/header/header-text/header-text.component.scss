@@ -1,0 +1,43 @@
+.text-container {
+    color: white;
+    font-weight: 300;
+    margin: 150px 0 0 100px;
+}
+
+.main-text {
+    font-weight: 300;
+    font-size: 500%;
+}
+
+.sub-text {
+    font-size: 200%;
+    margin-top: 20px;
+}
+
+.btn {
+    border: 1px solid orangered;
+    border-radius: 50px;
+    background-color: transparent;
+    color: orangered;
+    margin-right: 1rem;
+    width: 175px;
+    height: 50px;
+    transition: border 0.2s, color 0.1s, background-color 0.2s;
+    font-size: 150%;
+}
+
+.call-to-action {
+    background-color: orange;
+    color: white;
+    border: 1px solid orange;
+}
+
+.btn:hover {
+    background-color: darkorange;
+    color: white;
+    border: 1px solid darkorange;
+}
+
+.button-container {
+    margin-top: 30px;
+}
