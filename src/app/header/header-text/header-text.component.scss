@@ -1,66 +1,11 @@
-// .text-container {
-//     color: white;
-//     font-weight: 300;
-//     margin: 150px 0 0 100px;
-// }
-// .main-text {
-//     font-weight: 300;
-//     font-size: 500%;
-// }
-// .sub-text {
-//     font-size: 200%;
-//     margin-top: 20px;
-// }
-// .btn {
-//     border: 1px solid orangered;
-//     border-radius: 50px;
-//     background-color: transparent;
-//     color: orangered;
-//     margin-right: 1rem;
-//     width: 175px;
-//     height: 50px;
-//     transition: border 0.2s, color 0.1s, background-color 0.2s;
-//     font-size: 150%;
-// }
-// .call-to-action {
-//     background-color: orange;
-//     color: white;
-//     border: 1px solid orange;
-// }
-// .btn:hover {
-//     background-color: darkorange;
-//     color: white;
-//     border: 1px solid darkorange;
-// }
-// .button-container {
-//     margin-top: 30px;
-// }
 .jumbotron {
     background-color: transparent;
     color: white;
     text-align: center;
 }
 
-.btn {
-    border-radius: 50px;
-    width: 130px;
-    transition: border .2s, color 0.2s, background 0.2s;
-}
-
 .jumbotron .btn:first-of-type {
     margin-right: 1rem;
-}
-
-.btn-normal {
-    border: 1px solid orange;
-    background-color: transparent;
-    color: orange;
-}
-
-.btn-call-to-action {
-    border: 1px solid orange;
-    background-color: orange;
-    color: white;
 }
 
 .jumbotron p {
@@ -77,13 +22,6 @@
 
 #logo {
     font-size: 2000%;
-}
-
-.btn-normal:hover,
-.btn-call-to-action:hover {
-    background-color: darkorange;
-    color: white;
-    border-color: darkorange;
 }
 
 // Media Queries
